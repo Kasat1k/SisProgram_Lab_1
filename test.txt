@@ -1,0 +1,4 @@
+First line.
+Second{~!@#%$^&*(-=1"?|\<Line
+21312Third line
+Third line
